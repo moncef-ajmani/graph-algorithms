@@ -1,4 +1,4 @@
-# graph-algorithms
+# Graph Algorithms
 
 ## BellmanFord algorithm
 
