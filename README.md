@@ -16,6 +16,14 @@ The algorithm works as follows:
 
 3) Repeat step 2 until there are no more edges to relax.
 
+We have implemented the algorithm in the BellmanFord class.
+
+The constructor of the BellmanFord class takes in the graph and the number of vertices as parameters.
+
+The start() method is used to relax all edges.
+
+The shortest_path() method is used to find the shortest path between the source vertex and the destination vertex.
+
 ### Execution
 ```
 node BellmanFord.js
