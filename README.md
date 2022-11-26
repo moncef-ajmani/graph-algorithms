@@ -17,6 +17,7 @@ The algorithm works as follows:
 3) Repeat step 2 until there are no more edges to relax.
 
 ### Execution
+before execution of the code you should have a node.js installed in your machine
 ```
 node BellmanFord.js
 ```
