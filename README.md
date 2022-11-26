@@ -1,6 +1,6 @@
 # Graph Algorithms
 
-## BellmanFord algorithm
+## Bellman Ford
 
 In BellmanFord.js,file, we have implemented the Bellman-Ford algorithm to find the shortest path between two vertices in a graph.
 
